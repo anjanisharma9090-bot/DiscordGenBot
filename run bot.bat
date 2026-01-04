@@ -1,4 +1,4 @@
-@echo off
+@echo on
 title OnajLikezzIsAutismKing
 :nigga
 node index.js
